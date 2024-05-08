@@ -1,0 +1,161 @@
+I am busy
+I am not free
+you are annoying
+you are not helpful
+it is expensive
+it is not cheap
+the services is expensive
+the product is expensive
+the items is expensive
+the goods is expensive
+your services is expensive
+your product is expensive
+your items is expensive
+your goods is expensive
+the services is not cheap
+the product is not cheap
+the items is not cheap
+the goods is not cheap
+your services is not cheap
+your product is not cheap
+your items is not cheap
+your goods is not cheap
+I do not have time
+I do not have money
+I do not have interest
+I do not have needed
+I can not continue the conversation
+I can not continue the discussion
+I can not continue the talk
+I can not continue the chat
+I can not continue the call
+I can not continue the dialogue
+I can not keep the conversation
+I can not keep the discussion
+I can not keep the talk
+I can not keep the chat
+I can not keep the call
+I can not keep the dialogue
+I can not resume the conversation
+I can not resume the discussion
+I can not resume the talk
+I can not resume the chat
+I can not resume the call
+I can not resume the dialogue
+I can not confirm the contract
+I can not confirm the agreement
+I can not confirm the deal
+I can not confirm the promise
+I can not verify the contract
+I can not verify the agreement
+I can not verify the deal
+I can not verify the promise
+I can not assure the contract
+I can not assure the agreement
+I can not assure the deal
+I can not assure the promise
+I can not guarantee the contract
+I can not guarantee the agreement
+I can not guarantee the deal
+I can not guarantee the promise
+I can not agree the contract
+I can not agree the agreement
+I can not agree the deal
+I can not agree the promise
+I can not accept the contract
+I can not accept the agreement
+I can not accept the deal
+I can not accept the promise
+I can not approve the contract
+I can not approve the agreement
+I can not approve the deal
+I can not approve the promise
+I can not consent the contract
+I can not consent the agreement
+I can not consent the deal
+I can not consent the promise
+do not disturb me
+do not bother me
+do not annoy me
+do you have promotions ?
+do you have special offers ?
+do you have discounts ?
+do you have sales ?
+can I pay later ?
+can I pay after ?
+can I pay in the future ?
+can I pay next time ?
+can you help me ?
+can you support me ?
+can you assist me ?
+can you aid me ?
+can you serve me ?
+can you guide me ?
+can you offer me the endow ?
+can you offer me the benefit ?
+can you offer me the advantage ?
+can you offer me the privilege ?
+can you provide me the endow ?
+can you provide me the benefit ?
+can you provide me the advantage ?
+can you provide me the privilege ?
+can you give me the endow ?
+can you give me the benefit ?
+can you give me the advantage ?
+can you give me the privilege ?
+can you show me the endow ?
+can you show me the benefit ?
+can you show me the advantage ?
+can you show me the privilege ?
+can you advertise me the endow ?
+can you advertise me the benefit ?
+can you advertise me the advantage ?
+can you advertise me the privilege ?
+I will consider about the services
+I will consider about the product
+I will consider about the items
+I will consider about the goods
+I will consider about your services
+I will consider about your product
+I will consider about your items
+I will consider about your goods
+I will consider about contract
+I will consider about agreement
+I will consider about deal
+I will consider about promise
+please help me
+please support me
+please assist me
+please aid me
+please serve me
+please guide me
+What is the endow ?
+What is the benefit ?
+What is the advantage ?
+What is the privilege ?
+What is the cost of the contract ?
+What is the cost of the agreement ?
+What is the cost of the deal ?
+What is the cost of the promise ?
+What is the price of the contract ?
+What is the price of the agreement ?
+What is the price of the deal ?
+What is the price of the promise ?
+What is the fee of the contract ?
+What is the fee of the agreement ?
+What is the fee of the deal ?
+What is the fee of the promise ?
+What is the conditions of the contract ?
+What is the conditions of the agreement ?
+What is the conditions of the deal ?
+What is the conditions of the promise ?
+When can I register ?
+When can I subscribe ?
+When can I join ?
+When can I enroll ?
+When can I sign up ?
+Where can I register ?
+Where can I subscribe ?
+Where can I join ?
+Where can I enroll ?
+Where can I sign up ?

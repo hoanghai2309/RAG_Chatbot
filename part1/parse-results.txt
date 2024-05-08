@@ -1,0 +1,993 @@
+(S (NEGATIVE (I I) (AM am) (NADJ1 busy)))
+(S (NEGATIVE (I I) (AM am) (NOT not) (ADJ1 free)))
+(S (NEGATIVE (YOU you) (ARE are) (NADJ2 annoying)))
+(S (NEGATIVE (YOU you) (ARE are) (NOT not) (ADJ2 helpful)))
+(S (NEGATIVE (IT it) (IS is) (NADJ3 expensive)))
+(S (NEGATIVE (IT it) (IS is) (NOT not) (ADJ3 cheap)))
+(S
+  (NEGATIVE
+    (SP (ART (THE the)) (SERVICES services))
+    (IS is)
+    (NADJ3 expensive)))
+(S
+  (NEGATIVE
+    (SP (ART (THE the)) (SERVICES product))
+    (IS is)
+    (NADJ3 expensive)))
+(S
+  (NEGATIVE
+    (SP (ART (THE the)) (SERVICES items))
+    (IS is)
+    (NADJ3 expensive)))
+(S
+  (NEGATIVE
+    (SP (ART (THE the)) (SERVICES goods))
+    (IS is)
+    (NADJ3 expensive)))
+(S
+  (NEGATIVE
+    (SP (ART (YOUR your)) (SERVICES services))
+    (IS is)
+    (NADJ3 expensive)))
+(S
+  (NEGATIVE
+    (SP (ART (YOUR your)) (SERVICES product))
+    (IS is)
+    (NADJ3 expensive)))
+(S
+  (NEGATIVE
+    (SP (ART (YOUR your)) (SERVICES items))
+    (IS is)
+    (NADJ3 expensive)))
+(S
+  (NEGATIVE
+    (SP (ART (YOUR your)) (SERVICES goods))
+    (IS is)
+    (NADJ3 expensive)))
+(S
+  (NEGATIVE
+    (SP (ART (THE the)) (SERVICES services))
+    (IS is)
+    (NOT not)
+    (ADJ3 cheap)))
+(S
+  (NEGATIVE
+    (SP (ART (THE the)) (SERVICES product))
+    (IS is)
+    (NOT not)
+    (ADJ3 cheap)))
+(S
+  (NEGATIVE
+    (SP (ART (THE the)) (SERVICES items))
+    (IS is)
+    (NOT not)
+    (ADJ3 cheap)))
+(S
+  (NEGATIVE
+    (SP (ART (THE the)) (SERVICES goods))
+    (IS is)
+    (NOT not)
+    (ADJ3 cheap)))
+(S
+  (NEGATIVE
+    (SP (ART (YOUR your)) (SERVICES services))
+    (IS is)
+    (NOT not)
+    (ADJ3 cheap)))
+(S
+  (NEGATIVE
+    (SP (ART (YOUR your)) (SERVICES product))
+    (IS is)
+    (NOT not)
+    (ADJ3 cheap)))
+(S
+  (NEGATIVE
+    (SP (ART (YOUR your)) (SERVICES items))
+    (IS is)
+    (NOT not)
+    (ADJ3 cheap)))
+(S
+  (NEGATIVE
+    (SP (ART (YOUR your)) (SERVICES goods))
+    (IS is)
+    (NOT not)
+    (ADJ3 cheap)))
+(S (NEGATIVE (I I) (DO do) (NOT not) (TCO (HAVE have) (TIME time))))
+(S (NEGATIVE (I I) (DO do) (NOT not) (TCO (HAVE have) (TIME money))))
+(S
+  (NEGATIVE
+    (I I)
+    (DO do)
+    (NOT not)
+    (TCO (HAVE have) (TIME interest))))
+(S
+  (NEGATIVE (I I) (DO do) (NOT not) (TCO (HAVE have) (TIME needed))))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE continue)
+    (THE the)
+    (CONVERSATION conversation)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE continue)
+    (THE the)
+    (CONVERSATION discussion)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE continue)
+    (THE the)
+    (CONVERSATION talk)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE continue)
+    (THE the)
+    (CONVERSATION chat)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE continue)
+    (THE the)
+    (CONVERSATION call)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE continue)
+    (THE the)
+    (CONVERSATION dialogue)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE keep)
+    (THE the)
+    (CONVERSATION conversation)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE keep)
+    (THE the)
+    (CONVERSATION discussion)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE keep)
+    (THE the)
+    (CONVERSATION talk)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE keep)
+    (THE the)
+    (CONVERSATION chat)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE keep)
+    (THE the)
+    (CONVERSATION call)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE keep)
+    (THE the)
+    (CONVERSATION dialogue)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE resume)
+    (THE the)
+    (CONVERSATION conversation)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE resume)
+    (THE the)
+    (CONVERSATION discussion)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE resume)
+    (THE the)
+    (CONVERSATION talk)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE resume)
+    (THE the)
+    (CONVERSATION chat)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE resume)
+    (THE the)
+    (CONVERSATION call)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONTINUE resume)
+    (THE the)
+    (CONVERSATION dialogue)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM confirm)
+    (THE the)
+    (CONTRACT contract)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM confirm)
+    (THE the)
+    (CONTRACT agreement)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM confirm)
+    (THE the)
+    (CONTRACT deal)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM confirm)
+    (THE the)
+    (CONTRACT promise)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM verify)
+    (THE the)
+    (CONTRACT contract)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM verify)
+    (THE the)
+    (CONTRACT agreement)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM verify)
+    (THE the)
+    (CONTRACT deal)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM verify)
+    (THE the)
+    (CONTRACT promise)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM assure)
+    (THE the)
+    (CONTRACT contract)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM assure)
+    (THE the)
+    (CONTRACT agreement)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM assure)
+    (THE the)
+    (CONTRACT deal)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM assure)
+    (THE the)
+    (CONTRACT promise)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM guarantee)
+    (THE the)
+    (CONTRACT contract)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM guarantee)
+    (THE the)
+    (CONTRACT agreement)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM guarantee)
+    (THE the)
+    (CONTRACT deal)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM guarantee)
+    (THE the)
+    (CONTRACT promise)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM agree)
+    (THE the)
+    (CONTRACT contract)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM agree)
+    (THE the)
+    (CONTRACT agreement)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM agree)
+    (THE the)
+    (CONTRACT deal)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM agree)
+    (THE the)
+    (CONTRACT promise)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM accept)
+    (THE the)
+    (CONTRACT contract)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM accept)
+    (THE the)
+    (CONTRACT agreement)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM accept)
+    (THE the)
+    (CONTRACT deal)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM accept)
+    (THE the)
+    (CONTRACT promise)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM approve)
+    (THE the)
+    (CONTRACT contract)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM approve)
+    (THE the)
+    (CONTRACT agreement)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM approve)
+    (THE the)
+    (CONTRACT deal)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM approve)
+    (THE the)
+    (CONTRACT promise)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM consent)
+    (THE the)
+    (CONTRACT contract)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM consent)
+    (THE the)
+    (CONTRACT agreement)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM consent)
+    (THE the)
+    (CONTRACT deal)))
+(S
+  (NEGATIVE
+    (I I)
+    (CAN can)
+    (NOT not)
+    (CONFIRM consent)
+    (THE the)
+    (CONTRACT promise)))
+(S (NEGATIVE (DO do) (NOT not) (DISTURB disturb) (ME me)))
+(S (NEGATIVE (DO do) (NOT not) (DISTURB bother) (ME me)))
+(S (NEGATIVE (DO do) (NOT not) (DISTURB annoy) (ME me)))
+(S
+  (POSITIVE
+    (DO do)
+    (YOU you)
+    (MCO (HAVE have) (DISCOUNT promotions))
+    (Q ?)))
+()
+(S
+  (POSITIVE
+    (DO do)
+    (YOU you)
+    (MCO (HAVE have) (DISCOUNT discounts))
+    (Q ?)))
+(S
+  (POSITIVE
+    (DO do)
+    (YOU you)
+    (MCO (HAVE have) (DISCOUNT sales))
+    (Q ?)))
+()
+()
+()
+()
+(S (POSITIVE (CAN can) (YOU you) (HELP help) (ME me) (Q ?)))
+(S (POSITIVE (CAN can) (YOU you) (HELP support) (ME me) (Q ?)))
+(S (POSITIVE (CAN can) (YOU you) (HELP assist) (ME me) (Q ?)))
+(S (POSITIVE (CAN can) (YOU you) (HELP aid) (ME me) (Q ?)))
+(S (POSITIVE (CAN can) (YOU you) (HELP serve) (ME me) (Q ?)))
+(S (POSITIVE (CAN can) (YOU you) (HELP guide) (ME me) (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE offer)
+    (ME me)
+    (THE the)
+    (ADVANTAGE endow)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE offer)
+    (ME me)
+    (THE the)
+    (ADVANTAGE benefit)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE offer)
+    (ME me)
+    (THE the)
+    (ADVANTAGE advantage)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE offer)
+    (ME me)
+    (THE the)
+    (ADVANTAGE privilege)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE provide)
+    (ME me)
+    (THE the)
+    (ADVANTAGE endow)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE provide)
+    (ME me)
+    (THE the)
+    (ADVANTAGE benefit)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE provide)
+    (ME me)
+    (THE the)
+    (ADVANTAGE advantage)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE provide)
+    (ME me)
+    (THE the)
+    (ADVANTAGE privilege)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE give)
+    (ME me)
+    (THE the)
+    (ADVANTAGE endow)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE give)
+    (ME me)
+    (THE the)
+    (ADVANTAGE benefit)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE give)
+    (ME me)
+    (THE the)
+    (ADVANTAGE advantage)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE give)
+    (ME me)
+    (THE the)
+    (ADVANTAGE privilege)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE show)
+    (ME me)
+    (THE the)
+    (ADVANTAGE endow)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE show)
+    (ME me)
+    (THE the)
+    (ADVANTAGE benefit)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE show)
+    (ME me)
+    (THE the)
+    (ADVANTAGE advantage)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE show)
+    (ME me)
+    (THE the)
+    (ADVANTAGE privilege)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE advertise)
+    (ME me)
+    (THE the)
+    (ADVANTAGE endow)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE advertise)
+    (ME me)
+    (THE the)
+    (ADVANTAGE benefit)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE advertise)
+    (ME me)
+    (THE the)
+    (ADVANTAGE advantage)
+    (Q ?)))
+(S
+  (POSITIVE
+    (CAN can)
+    (YOU you)
+    (PROVIDE advertise)
+    (ME me)
+    (THE the)
+    (ADVANTAGE privilege)
+    (Q ?)))
+(S
+  (POSITIVE
+    (I I)
+    (WILL will)
+    (CONSIDER consider)
+    (ABOUT about)
+    (SP (ART (THE the)) (SERVICES services))))
+(S
+  (POSITIVE
+    (I I)
+    (WILL will)
+    (CONSIDER consider)
+    (ABOUT about)
+    (SP (ART (THE the)) (SERVICES product))))
+(S
+  (POSITIVE
+    (I I)
+    (WILL will)
+    (CONSIDER consider)
+    (ABOUT about)
+    (SP (ART (THE the)) (SERVICES items))))
+(S
+  (POSITIVE
+    (I I)
+    (WILL will)
+    (CONSIDER consider)
+    (ABOUT about)
+    (SP (ART (THE the)) (SERVICES goods))))
+(S
+  (POSITIVE
+    (I I)
+    (WILL will)
+    (CONSIDER consider)
+    (ABOUT about)
+    (SP (ART (YOUR your)) (SERVICES services))))
+(S
+  (POSITIVE
+    (I I)
+    (WILL will)
+    (CONSIDER consider)
+    (ABOUT about)
+    (SP (ART (YOUR your)) (SERVICES product))))
+(S
+  (POSITIVE
+    (I I)
+    (WILL will)
+    (CONSIDER consider)
+    (ABOUT about)
+    (SP (ART (YOUR your)) (SERVICES items))))
+(S
+  (POSITIVE
+    (I I)
+    (WILL will)
+    (CONSIDER consider)
+    (ABOUT about)
+    (SP (ART (YOUR your)) (SERVICES goods))))
+(S
+  (POSITIVE
+    (I I)
+    (WILL will)
+    (CONSIDER consider)
+    (ABOUT about)
+    (CONTRACT contract)))
+(S
+  (POSITIVE
+    (I I)
+    (WILL will)
+    (CONSIDER consider)
+    (ABOUT about)
+    (CONTRACT agreement)))
+(S
+  (POSITIVE
+    (I I)
+    (WILL will)
+    (CONSIDER consider)
+    (ABOUT about)
+    (CONTRACT deal)))
+(S
+  (POSITIVE
+    (I I)
+    (WILL will)
+    (CONSIDER consider)
+    (ABOUT about)
+    (CONTRACT promise)))
+(S (POSITIVE (PLEASE please) (HELP help) (ME me)))
+(S (POSITIVE (PLEASE please) (HELP support) (ME me)))
+(S (POSITIVE (PLEASE please) (HELP assist) (ME me)))
+(S (POSITIVE (PLEASE please) (HELP aid) (ME me)))
+(S (POSITIVE (PLEASE please) (HELP serve) (ME me)))
+(S (POSITIVE (PLEASE please) (HELP guide) (ME me)))
+(S (POSITIVE (WHAT What) (IS is) (THE the) (ADVANTAGE endow) (Q ?)))
+(S
+  (POSITIVE (WHAT What) (IS is) (THE the) (ADVANTAGE benefit) (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (ADVANTAGE advantage)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (ADVANTAGE privilege)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION cost)
+    (OF of)
+    (THE the)
+    (CONTRACT contract)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION cost)
+    (OF of)
+    (THE the)
+    (CONTRACT agreement)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION cost)
+    (OF of)
+    (THE the)
+    (CONTRACT deal)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION cost)
+    (OF of)
+    (THE the)
+    (CONTRACT promise)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION price)
+    (OF of)
+    (THE the)
+    (CONTRACT contract)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION price)
+    (OF of)
+    (THE the)
+    (CONTRACT agreement)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION price)
+    (OF of)
+    (THE the)
+    (CONTRACT deal)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION price)
+    (OF of)
+    (THE the)
+    (CONTRACT promise)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION fee)
+    (OF of)
+    (THE the)
+    (CONTRACT contract)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION fee)
+    (OF of)
+    (THE the)
+    (CONTRACT agreement)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION fee)
+    (OF of)
+    (THE the)
+    (CONTRACT deal)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION fee)
+    (OF of)
+    (THE the)
+    (CONTRACT promise)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION conditions)
+    (OF of)
+    (THE the)
+    (CONTRACT contract)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION conditions)
+    (OF of)
+    (THE the)
+    (CONTRACT agreement)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION conditions)
+    (OF of)
+    (THE the)
+    (CONTRACT deal)
+    (Q ?)))
+(S
+  (POSITIVE
+    (WHAT What)
+    (IS is)
+    (THE the)
+    (CONDITION conditions)
+    (OF of)
+    (THE the)
+    (CONTRACT promise)
+    (Q ?)))
+(S (POSITIVE (WHEN When) (CAN can) (I I) (SIGNUP register) (Q ?)))
+(S (POSITIVE (WHEN When) (CAN can) (I I) (SIGNUP subscribe) (Q ?)))
+(S (POSITIVE (WHEN When) (CAN can) (I I) (SIGNUP join) (Q ?)))
+(S (POSITIVE (WHEN When) (CAN can) (I I) (SIGNUP enroll) (Q ?)))
+()
+(S (POSITIVE (WHERE Where) (CAN can) (I I) (SIGNUP register) (Q ?)))
+(S (POSITIVE (WHERE Where) (CAN can) (I I) (SIGNUP subscribe) (Q ?)))
+(S (POSITIVE (WHERE Where) (CAN can) (I I) (SIGNUP join) (Q ?)))
+(S (POSITIVE (WHERE Where) (CAN can) (I I) (SIGNUP enroll) (Q ?)))
+()
